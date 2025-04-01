@@ -17,6 +17,5 @@ python main.py
 
 If you need more technical support and development inquires, you can contact below.
 
-Telegram: [@dwlee918](https://t.me/@dwlee918)
+Telegram: [@cryptocuteboy](https://t.me/@cryptocuteboy)
 
-Twitter: [@derricklee918](https://x.com/derricklee918)
