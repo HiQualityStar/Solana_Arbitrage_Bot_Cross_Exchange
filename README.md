@@ -1,4 +1,4 @@
-# Solana Swap Arbitrage Bot
+# Solana Arbitrage Bot
 
 A Solana arbitrage bot leverages price differences between Raydium's AMM and centralized exchanges using the CCXT library. 
 
